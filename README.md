@@ -1,4 +1,7 @@
-İçerik
+## Personal Website
+Bu, benim personal website'imdir. Bu website üzerinde yeteneklerim, çalışmalarım ve iletişim bilgilerim gibi bilgileri paylaşıyorum. Website, responsive bir tasarıma sahiptir, böylece farklı cihazlarda kolayca görüntülenebilir.
+
+## İçerik
 Website aşağıdaki bölümleri içermektedir:
 
 Anasayfa: Bu bölümde kendimi tanıtıyorum ve hakkımda kısa bir özet sunuyorum.
